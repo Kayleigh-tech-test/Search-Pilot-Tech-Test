@@ -1,0 +1,9 @@
+@media only screen and (max-width: 900px) {
+    .title-wrapper {
+        width: 90%;
+    }
+
+    .page-wrapper {
+        width: 80%;
+    }
+}
